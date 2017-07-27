@@ -73,7 +73,7 @@ public class CabBookingResource {
         } catch (InterruptedException ex) {
             Logger.getLogger(CabBookingResource.class.getName()).log(Level.SEVERE, null, ex);
         }
-        return "abhishek";
+        return "john doe";
     }
 
     String notifyUser(String info) {

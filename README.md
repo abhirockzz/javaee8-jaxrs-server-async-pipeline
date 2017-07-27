@@ -10,5 +10,6 @@
 
 - `curl http://<docker_host_ip>:8080/booking/cabs/abhi`
 - hold on... 3-5 seconds
-- you should see something similar to what's depicted below
+- you should see a message like this - `Your driver is john doe and OTP is 1234`
 
+That's it..
